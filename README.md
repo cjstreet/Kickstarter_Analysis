@@ -32,6 +32,9 @@ Examining the Theater campaigns against the launch date, showed that theater cam
 It can be concluded that more play campaigns are being launched in May with 163 and the least in December with 71. Theater campaigns are more successful in May and June, 68% and 63% respectively of all theater launched. 
 
 
+![Outcomes based on Goals](Resources/Outcomes_vs_Goal.png)
+
+
 - What can you conclude about the Outcomes based on Goals?
 
 There were no cancellations for plays based on their goals. As the goal increased successful plays decreased and failed plays increased. Plays were the most successful when their goal was less than 1000 (76%). 88% of plays failed that had a goal of 50000 or more. Although there was an increase in successful plays (67%) and decrease in failed plays (33%) for goals between 35000 and 44999. We might want to examine other features/variables to determine what is causing this. 
